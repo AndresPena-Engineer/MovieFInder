@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteKino</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add">Add</string>
+    <string name="show">show</string>
+    <string name="Name" />
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+    <string name="price">Price</string>
+    <string name="nameField">Name</string>
+</resources>
